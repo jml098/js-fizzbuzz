@@ -1,0 +1,29 @@
+body {
+    background-color: #083b4c !important;
+}
+
+.square {
+    width: 75px;
+    height: 75px;
+}
+
+.bg-blue {
+    background-color: rgba(19, 137, 178, 255);
+}
+
+.bg-green {
+    background-color: rgba(11, 214, 160, 255);
+}
+
+.bg-yellow {
+    background-color: rgba(255, 209, 102, 255);
+}
+
+.bg-red {
+    background-color: rgba(240, 70, 111, 255);
+
+}
+
+.bg-darkblue {
+    background-color: #083b4c;
+}
